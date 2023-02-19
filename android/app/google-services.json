@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "71920747656",
+    "project_id": "buildmaster-project",
+    "storage_bucket": "buildmaster-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71920747656:android:73714c80b6ab54755b0b3d",
+        "android_client_info": {
+          "package_name": "com.example.buildmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71920747656-rssfptfa7vvdupdc0c96s16e04jp2m7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-qeMz97NzpV95sJLFvupmCJ5j_0WZG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71920747656-9qncjc2faq0jq8fujf1ldd7ptqd7ikhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71920747656-cm3n39eje8fq4aej81k3a2ult23rstin.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buildmaster"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71920747656:android:3c44e43637be2bfa5b0b3d",
+        "android_client_info": {
+          "package_name": "com.example.buildmaster_rev1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71920747656-rssfptfa7vvdupdc0c96s16e04jp2m7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-qeMz97NzpV95sJLFvupmCJ5j_0WZG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71920747656-9qncjc2faq0jq8fujf1ldd7ptqd7ikhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71920747656-cm3n39eje8fq4aej81k3a2ult23rstin.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buildmaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
